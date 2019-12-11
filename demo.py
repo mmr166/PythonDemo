@@ -1,3 +1,3 @@
 # Demo file
 print("Hello World")
-print( "Welcome to Pycharm & Gits")
+print( "Welcome to Pycharm & Git")
